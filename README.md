@@ -2,17 +2,15 @@
 
 ![Banner Image](your_banner_image_url_here)
 
-## About Me 🚀
+## About Me 
 
 I'm a  dedicated and analytical learner with a strong passion for problem-solving and continuous improvement. Highly organized and productivity-driven, I excel at managing tasks efficiently and maintaining focus on achieving results. I have a deep appreciation for mathematics and logical reasoning, I bring precision, structure, and critical thinking to every challenge I undertake.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- Currently learning: **[new technologies or skills you're currently learning]**
+- Working on: **[current projects or side-projects]**
+  
 
-## My Skills 🧠
+## My Skills 
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -21,7 +19,7 @@ I'm a  dedicated and analytical learner with a strong passion for problem-solvin
 
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
-## Featured Projects 💻
+## Featured Projects 
 
 ### [Project 1 Title](project_1_link)
 
@@ -35,7 +33,7 @@ I'm a  dedicated and analytical learner with a strong passion for problem-solvin
 
 **[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
 
-## Get in Touch 📬
+## Get in Touch 
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
 - **[LinkedIn]**(your_linkedin_profile_link)
