@@ -1,10 +1,10 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Georgia
 
 ![Banner Image](your_banner_image_url_here)
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a  dedicated and analytical learner with a strong passion for problem-solving and continuous improvement. Highly organized and productivity-driven, I excel at managing tasks efficiently and maintaining focus on achieving results. I have a deep appreciation for mathematics and logical reasoning, I bring precision, structure, and critical thinking to every challenge I undertake.
 
 - 🌱 Currently learning: **[new technologies or skills you're currently learning]**
 - 🔭 Working on: **[current projects or side-projects]**
