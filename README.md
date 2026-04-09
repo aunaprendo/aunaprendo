@@ -1,41 +1,76 @@
-# Hi there, I'm Georgia
+# Hi, I'm Georgia
 
-![Banner Image](your_banner_image_url_here)
+## About Me
+Methodical problem solver and knowledge seeker transitioning into cybersecurity. I am working towards becoming a Security Analyst and ultimately an Ethical Hacker. My approach emphasizes risk identification, structured analysis, and building resilient, well-documented solutions. I'm an analytical, self-driven learner with experience assessing complex environments, identifying risks, and developing thoughtful solutions. My background in architecture and Peace Corps service strengthened my ability to:
 
-## About Me 
+- Identify risks and vulnerabilities  
+- Analyze complex systems  
+- Work within constraints  
+- Collaborate across disciplines  
+- Develop clear documentation  
 
-I'm a  dedicated and analytical learner with a strong passion for problem-solving and continuous improvement. Highly organized and productivity-driven, I excel at managing tasks efficiently and maintaining focus on achieving results. I have a deep appreciation for mathematics and logical reasoning, I bring precision, structure, and critical thinking to every challenge I undertake.
+These skills now support my transition into cybersecurity and security analysis.
 
-- Currently learning: **[new technologies or skills you're currently learning]**
-- Working on: **[current projects or side-projects]**
-  
+🔗 Portfolio: https://aunaprendo.github.io/GJportfolio/
 
-## My Skills 
+---
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+## Technical Skills
 
+- HTML  
+- CSS  
+- JavaScript (Learning)  
+- Python (Learning)  
+- SQL (Learning)  
+- Git / GitHub  
+- Bootstrap  
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+---
 
-## Featured Projects 
+## Professional Background
 
-### [Project 1 Title](project_1_link)
+**Architecture + Peace Corps → Cybersecurity**
 
-![Project 1 Screenshot](project_1_screenshot_url)
+Experience in architecture and Peace Corps developed transferable skills including:
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+- Risk assessment  
+- Analytical thinking  
+- Documentation  
+- Problem solving  
+- Cross-functional collaboration  
+- Adaptability  
 
-### [Project 2 Title](project_2_link)
+---
 
-![Project 2 Screenshot](project_2_screenshot_url)
+## Career Goals
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+**Short-Term**
+- Security Analyst Role  
+- Hands-on security experience  
+- Defensive security foundation  
 
-## Get in Touch 
+**Long-Term**
+- Ethical Hacker  
+- Penetration Tester  
+- Security Architecture  
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+---
 
+## Repository Contents
+
+- Projects  
+- Labs  
+- Notes  
+- Scripts  
+- Research  
+- Reference Materials  
+
+---
+
+## Learning Philosophy
+
+Methodical. Analytical. Always Learning.
+
+---
+
+*This portfolio is actively evolving as I continue building cybersecurity skills.*
