@@ -54,16 +54,6 @@ Experience in architecture and Peace Corps developed transferable skills includi
 - Penetration Tester  
 - Security Architecture  
 
----
-
-## Repository Contents
-
-- Projects  
-- Labs  
-- Notes  
-- Scripts  
-- Research  
-- Reference Materials  
 
 ---
 
