@@ -19,9 +19,9 @@ These skills now support my transition into cybersecurity and security analysis.
 
 - HTML  
 - CSS  
-- JavaScript (Learning)  
-- Python (Learning)  
-- SQL (Learning)  
+- JavaScript  
+- Python  
+- SQL  
 - Git / GitHub  
 - Bootstrap  
 
