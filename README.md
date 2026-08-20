@@ -9,7 +9,7 @@ Methodical problem solver and knowledge seeker transitioning into cybersecurity.
 - Collaborate across disciplines  
 - Develop clear documentation  
 
-These skills now support my transition into cybersecurity and security analysis.
+These skills now support my transition into cybersecurity.
 
 🔗 Portfolio: https://aunaprendo.github.io/GJportfolio/
 
